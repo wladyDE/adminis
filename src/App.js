@@ -4,7 +4,7 @@ import { CssBaseline, ThemeProvider } from "@mui/material";
 import TopBar from './scenes/global/Topbar'
 import Sidebar from "./scenes/global/Sidebar";
 import Dashboard from "./scenes/dashboard";
-import Team from "./scenes/team/Team.jsx";
+import Team from "./scenes/team";
 import Invoices from "./scenes/invoices/Invoices.jsx";
 import Contacts from "./scenes/contacts/Contacts.jsx";
 import Bar from "./scenes/bar/Bar.jsx";
