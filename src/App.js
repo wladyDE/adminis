@@ -13,7 +13,7 @@ import Line from "./scenes/line/Line.jsx";
 import Pie from "./scenes/pie/Pie.jsx";
 import FAQ from "./scenes/faq/FAQ.jsx";
 import Geography from "./scenes/geography/Geography.jsx";
-import Calendar from "./scenes/calendar/Calendar.jsx";
+import Calendar from "./scenes/calendar/index.jsx";
 
 
 function App() {
