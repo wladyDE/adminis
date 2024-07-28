@@ -8,7 +8,7 @@ import Team from "./scenes/team/";
 import Invoices from "./scenes/invoices/index.jsx";
 import Contacts from "./scenes/contacts/index.jsx";
 import Bar from "./scenes/bar/Bar.jsx";
-import Form from "./scenes/form/Form.jsx";
+import Form from "./scenes/form/index.jsx";
 import Line from "./scenes/line/Line.jsx";
 import Pie from "./scenes/pie/Pie.jsx";
 import FAQ from "./scenes/faq/FAQ.jsx";
