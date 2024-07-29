@@ -7,12 +7,12 @@ import Dashboard from "./scenes/dashboard";
 import Team from "./scenes/team/";
 import Invoices from "./scenes/invoices/index.jsx";
 import Contacts from "./scenes/contacts/index.jsx";
-import Bar from "./scenes/bar/Bar.jsx";
+import Bar from "./scenes/bar/index.jsx";
 import Form from "./scenes/form/index.jsx";
-import Line from "./scenes/line/Line.jsx";
-import Pie from "./scenes/pie/Pie.jsx";
+import Line from "./scenes/line/index.jsx";
+import Pie from "./scenes/pie/index.jsx";
 import FAQ from "./scenes/faq/index.jsx";
-import Geography from "./scenes/geography/Geography.jsx";
+import Geography from "./scenes/geography/index.jsx";
 import Calendar from "./scenes/calendar/index.jsx";
 
 
