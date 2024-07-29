@@ -1,4 +1,5 @@
 import { Box } from "@mui/material";
+import ProgressCircle from "../../components/ProgressCircle";
 
 import Header from '../../components/Header'
 
@@ -8,6 +9,8 @@ const Dashboard = () => {
         <Box display="flex" justifyContent="space-between" alignItems="center">
             <Header title="DASHBOARD" subtitle="Welcome to your dashboard" />
         </Box>
+
+        <ProgressCircle/>
     </Box>
 }
 
