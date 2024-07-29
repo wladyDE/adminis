@@ -11,7 +11,7 @@ import Bar from "./scenes/bar/Bar.jsx";
 import Form from "./scenes/form/index.jsx";
 import Line from "./scenes/line/Line.jsx";
 import Pie from "./scenes/pie/Pie.jsx";
-import FAQ from "./scenes/faq/FAQ.jsx";
+import FAQ from "./scenes/faq/index.jsx";
 import Geography from "./scenes/geography/Geography.jsx";
 import Calendar from "./scenes/calendar/index.jsx";
 
